@@ -1,0 +1,11 @@
+
+#wrapper{
+	width: 1024px;
+	min-height: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#shortUrlDiv{
+	display: none;
+}
